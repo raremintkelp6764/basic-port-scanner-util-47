@@ -1,2 +1,9 @@
-# basic-port-scanner-util-47
-A simple port scanner project
+# Port Scanner
+
+A simple port scanner project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
